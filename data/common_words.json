@@ -1,0 +1,12 @@
+[
+  {"russian_word": "красный", "english_word": "red", "word_type": "adjective"},
+  {"russian_word": "синий", "english_word": "blue", "word_type": "adjective"},
+  {"russian_word": "зеленый", "english_word": "green", "word_type": "adjective"},
+  {"russian_word": "желтый", "english_word": "yellow", "word_type": "adjective"},
+  {"russian_word": "черный", "english_word": "black", "word_type": "adjective"},
+  {"russian_word": "дом", "english_word": "house", "word_type": "noun"},
+  {"russian_word": "книга", "english_word": "book", "word_type": "noun"},
+  {"russian_word": "стол", "english_word": "table", "word_type": "noun"},
+  {"russian_word": "автомобиль", "english_word": "car", "word_type": "noun"},
+  {"russian_word": "дерево", "english_word": "tree", "word_type": "noun"}
+]
